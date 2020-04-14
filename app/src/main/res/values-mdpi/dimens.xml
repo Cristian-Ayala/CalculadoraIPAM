@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="circleSize">70dp</dimen>
+    <dimen name="marginCircle">0dp</dimen>
+    <dimen name="tamanioLetras">20sp</dimen>
+    <dimen name="paddingButtons">5dp</dimen>
+    <dimen name="sizeScreen">190dp</dimen>
+    <dimen name="Resultado">40sp</dimen>
+    <dimen name="ops">20sp</dimen>
+    <dimen name="calcName">15sp</dimen>
+
+</resources>
