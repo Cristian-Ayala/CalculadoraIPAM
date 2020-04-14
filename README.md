@@ -6,7 +6,9 @@
 | - [Funciones](#Funciones)| - [Functions](#Functions)|
 | -[Manejo de excepciones](#Manejo-de-excepciones)| - [Exception handling](#Exception-handling)|
 |- [Orden jerárquico](#Orden-jerárquico)|- [Hierarchy order](#Hierarchy-order)|
-|- [Motor de procesamiento](#Motor-de-procesamiento)|-[Processing engine](#Processing-engine)
+|- [Motor de procesamiento](#Motor-de-procesamiento)|- [Processing engine](#Processing-engine)|
+|- [Imagenes](#Imagenes)| - [Images](#Imagenes)|
+|- [APK](#Aplicación)| - [APK](#APK)|
 
 
 # Bienvenido!
@@ -42,7 +44,8 @@ Se ha ocupado una libreria de terceros:  **Rhino**  que fue desarrollada por moz
 > **Nota:** Se consideró que el criterio a evaluar sería los conocimientos sobre **Android Studio**  por lo que se decidió usar la útil libreria de Rhino, todo para no volver a inventar la rueda. (un dicho).
 
 
-
+## Aplicación
+Puede encontrar la apk para instalar dentro del folder apk.
 
 ------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------
@@ -86,3 +89,14 @@ The application handles the hierarchical order of the applications, it performs 
 A third-party library has been used: **Rhino** which was developed by mozilla, which is a **JavaScript** engine that evaluates the string it receives as a parameter and evaluates the text string, it should be noted that not only It processes mathematical operations but it could also evaluate any expression that is commonly used in JS.
 
 > **Note:** It was considered that the criterion to evaluate would be knowledge about **Android Studio**, We don't need to reinvent the **wheel**, we just need to **hire** someone who already **knows** how to make the **system work**.
+
+
+
+## Imagenes
+
+<img src=/mock-ups/1.png/>
+<img src=/mock-ups/2.png/>
+<img src=/mock-ups/3.png/>
+
+## APK
+You can find the apk under the folder apk.
