@@ -83,6 +83,6 @@ The application handles the hierarchical order of the applications, it performs 
 
 ### Processing engine
 
-A third-party library has been used: ** Rhino ** which was developed by mozilla, which is a **JavaScript** engine that evaluates the string it receives as a parameter and evaluates the text string, it should be noted that not only It processes mathematical operations but it could also evaluate any expression that is commonly used in JS.
+A third-party library has been used: **Rhino** which was developed by mozilla, which is a **JavaScript** engine that evaluates the string it receives as a parameter and evaluates the text string, it should be noted that not only It processes mathematical operations but it could also evaluate any expression that is commonly used in JS.
 
 > **Note:** It was considered that the criterion to evaluate would be knowledge about **Android Studio**, We don't need to reinvent the **wheel**, we just need to **hire** someone who already **knows** how to make the **system work**.
